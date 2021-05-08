@@ -1499,6 +1499,12 @@ text-align: center;
     border-radius: 4px;
     text-decoration: none !important;
 }
+.go-to-product-green:hover { 
+    background-color: #206829; 
+    color: fff#; 
+    text-decoration: none !important; 
+}
+
 
 
 /*!
