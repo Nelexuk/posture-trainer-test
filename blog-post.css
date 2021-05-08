@@ -1514,7 +1514,11 @@ text-align: center;
 .go-to-product-link-wrapper {
     text-align: center;
 }
-
+@media only screen and (max-width: 767px){
+    .go-to-product-green {
+    width: 100%;
+    }
+}
 
 /*!
  * Bootstrap v4.1.1 (https://getbootstrap.com/)
