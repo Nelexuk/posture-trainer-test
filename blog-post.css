@@ -327,6 +327,8 @@ font-size:18px;
 
 .whitebox{
   color:white;
+  margin: 0px;
+  font-size: 0.8rem;
 }
 .adv-side{
       position: fixed;
